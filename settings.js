@@ -4,7 +4,7 @@
 //pls give credit
 //no credit? i will take action immediately
 //© 2022 Xeon Bot Inc. Cheems Bot MD
-//Thank you to Allah SWT, Family and Myself
+//Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe hai ya
 //codes copy kar ke apne script me dal rhe
