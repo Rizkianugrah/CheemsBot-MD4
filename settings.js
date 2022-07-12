@@ -58,10 +58,10 @@ global.vcardowner = ['6281387089252'] //ur owner number
 global.ownername = "🦄𝓜𝓪𝓾𝓵𝓪𝓷𝓪 𝓨𝓾𝓼𝓾𝓯" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "Indonesia, Mizoram, Aizawl" //ur location
+global.location = "Indonesia, Jawa Barat, Purwakarta" //ur location
 
 //bot bomdy 
-global.owner = ['6283199789390']
+global.owner = ['6281387089252']
 global.ownertag = '6281387089252' //ur tag number
 global.botname = 'Ambulance' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
@@ -69,7 +69,7 @@ global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "Ambulance Stickers\n\n\n\n\n\n\n\n\n\n\n " //ur sticker watermark packname
 global.author = "🦄𝓜𝓪𝓾𝓵𝓪𝓷𝓪 𝓨𝓾𝓼𝓾𝓯" //ur sticker watermark author
 
 //Bot theme media
@@ -101,7 +101,7 @@ global.ntilink = []
 
 //omther
 global.sessionName = 'session'
-global.antitags = true
+global.antitags = false
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
