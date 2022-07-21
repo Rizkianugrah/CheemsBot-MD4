@@ -9,7 +9,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': '2220a34213',
+	'https://zenzapis.xyz': 'sanzychan01',
 }
 
 
